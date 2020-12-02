@@ -36,7 +36,7 @@ Visually, if we omit the "pixel" prefix, the pixels make up the image like this:
 
 056 057 058 059 ... 082 083
 
- |  - - -  |   - - -   |  - - -  |  - - -  ... - - -  |  - - -  |
+ |  - - -  |   - -    |  - -   |  - -   ... - - -  |  - - -  |
  
 728 729 730 731 ... 754 755
 
