@@ -36,7 +36,7 @@ Visually, if we omit the "pixel" prefix, the pixels make up the image like this:
 
 056 057 058 059 ... 082 083
 
- |   -  |  -   |  -  |  -  ...  -  |   -  |
+ |  - -  |   - -   |  - -  |  - -  ...  - -  |   - -  |
  
 728 729 730 731 ... 754 755
 
@@ -49,8 +49,11 @@ Your submission file should be in the following format: For each of the 28000 im
 ImageId,Label
 
 1,3
+
 2,7
+
 3,8 
+
 (27997 more lines)
 
 The evaluation metric for this contest is the categorization accuracy, or the proportion of test images that are correctly classified. For example, a categorization accuracy of 0.97 indicates that you have correctly classified all but 3% of the images.
