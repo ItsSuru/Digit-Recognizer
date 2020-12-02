@@ -1,5 +1,5 @@
 
-<img align="right" src="C:\Users\ASUS\Desktop\GitHub\Digit rec\Digit-Recognizer\Examples-from-the-MNIST-dataset.png"  width="400" height="300">
+<img align="right" src="C:\Users\ASUS\Desktop\GitHub\Digit rec\Digit-Recognizer\Examples-from-the-MNIST-dataset.png" alt = "img" width="400" height="300">
 
 ### Start here if...
 You have some experience with R or Python and machine learning basics, but you’re new to computer vision. This competition is the perfect introduction to techniques like neural networks using a classic dataset including pre-extracted features.
